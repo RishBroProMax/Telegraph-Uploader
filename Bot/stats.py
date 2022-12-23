@@ -1,5 +1,5 @@
-from TelegraphBot.database.users_sql import num_users
-from TelegraphBot.database.chats_sql import num_chats
+from Bot.database.users_sql import num_users
+from Bot.database.chats_sql import num_chats
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from Config import OWNER_ID
