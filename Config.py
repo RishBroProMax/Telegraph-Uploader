@@ -21,9 +21,9 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = ""
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = "14104754"
+    API_HASH = "fc8f5ab24f0ceaa02998220981dc91b4"
+    BOT_TOKEN = "5674301319:AAGGFd3RxXNK1gfBm40uIXz5CZJApBYibcw"
+    DATABASE_URL = "mongodb+srv://rishbro:rishbro@cluster0.eiqoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     MUST_JOIN = "SDBOTS_Inifinity"
-    OWNER_ID = ""
+    OWNER_ID = "5171347305"
