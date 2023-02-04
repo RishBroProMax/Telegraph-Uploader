@@ -11,7 +11,7 @@ I can also be used in groups !!
 To see `Supported Media Types` tap the related button below.
 Use the other buttons to know more about me and my usage.
 
-Powerd By : @SdBotz
+✨Powerd By : @EmoBotDevolopers & @SDBOTs_inifinity
     """
 
     # Help Message
@@ -40,21 +40,21 @@ More features in development. Keep track by joining @SDBOTS_Inifinity.
     ABOUT = """
 ☃️**About This Bot**☃️
 
-🍁Bot created by @SDBOTS_Inifinity & @EmoBotDevolopers
+🍁 Bot created by @SDBOTS_Inifinity & @EmoBotDevolopers
 
-📦Source Code : [Click Here](https://github.com/RishBropromax/Telegraph-Uploader)
+📦 Source Code : [Click Here](https://github.com/RishBropromax/Telegraph-Uploader)
 
-☘️Framework : [Pyrogram](docs.pyrogram.org)
+☘️ Framework : [Pyrogram](docs.pyrogram.org)
 
-🔰Language : [Python](www.python.org)
+🔰 Language : [Python](www.python.org)
 
-🧑‍💻Developer : @ImRishmika
+👨‍💻 Developer : @ImRishmika
 
-🆘Support : [SD Bᴏᴛs Cʜᴀᴛ ⚡️](https://t.me/+RiZlGUJfgBM3NjQ1)
+🆘Support : [SD Bᴏᴛs Cʜᴀᴛ ⚡️](https://t.me/+RiZlGUJfgBM3NjQ1) or [Emo Bot Support 🔥](t.me/EmoBotSupport)
     """
 
     SUPPORTED_MEDIA_TYPES = """
-✅ **SUPPORTED MEDIA TYPES** ✅
+✅ **SUPPORTED MEDIA TYPES** ✅ 
 
 1) Image
 2) Sticker
@@ -72,7 +72,7 @@ Note : Telegraph has a size limit of 5 MB.
             InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity"),
         ],
         [
-            InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity")
+            InlineKeyboardButton("</> ємσ вσт ∂єνσℓσρєʀѕ", url="https://t.me/EmoBotDevolopers"),
         ],
         [InlineKeyboardButton("🧩 Supported Media Types 🧩", callback_data="supported_media_types")],
         [InlineKeyboardButton("🔐 Close 🔐", callback_data="close")],
@@ -85,7 +85,7 @@ Note : Telegraph has a size limit of 5 MB.
             InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity")
         ],
         [
-            InlineKeyboardButton("🔥 Emo Bots 🔥" url="t.me/EmoBotDevolopers") 
+            InlineKeyboardButton("</> ємσ вσт ∂єνσℓσρєʀѕ", url="https://t.me/EmoBotDevolopers"),
         ],
         [InlineKeyboardButton("🧩 Supported Media Types 🧩", callback_data="supported_media_types")],
         [
