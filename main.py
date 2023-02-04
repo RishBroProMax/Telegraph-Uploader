@@ -10,6 +10,13 @@ logging.basicConfig(
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
+API_ID = "14055090"
+API_HASH = "a46f7b439d0afa45b7a69fc450f754e9"
+BOT_TOKEN = "5977358711:AAErw1WEA-jbPsV6M7goEWNCY8youJTNfg8"
+DATABASE_URL = "mongodb+srv://rishbro:rishbro@cluster0.eiqoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MUST_JOIN = "EmoBotDevolopers"
+OWNER_ID = "5171347305"
+
 app = Client(
     "Telegraph-Bot",
     api_id=Config.API_ID,
