@@ -12,7 +12,7 @@ status_text = "Converting and Uploading..."
 async def work_to_do(message: Message):
     user_id = message.from_user.id
     message_id = message.message_id
-    name_format = f"SD Bᴏᴛs⚡️_{user_id}_{message_id}"
+    name_format = f"Emo Bots 🔥_{user_id}_{message_id}"
     if message.document:
         extension = message.document.file_name[-3:]
         if extension not in extensions:
