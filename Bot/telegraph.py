@@ -4,7 +4,7 @@ from PIL import Image
 from pyrogram.types import Message
 
 extensions = ["jpg", "jpeg", "png", "gif", "mp4"]
-size_limit = 5242880
+size_limit = 10000000
 size_error = "Files with size more than 5 MB are not accepted."
 status_text = "Converting and Uploading..."
 
