@@ -70,7 +70,9 @@ Note : Telegraph has a size limit of 5 MB.
     home_buttons = [
         [
             InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity"),
-            InlineKeyboardButton("🔥 Emo Bots 🔥" url="t.me/EmoBotDevolopers")   
+        ],
+        [
+            InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity")
         ],
         [InlineKeyboardButton("🧩 Supported Media Types 🧩", callback_data="supported_media_types")],
         [InlineKeyboardButton("🔐 Close 🔐", callback_data="close")],
@@ -80,8 +82,10 @@ Note : Telegraph has a size limit of 5 MB.
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity"),
-            InlineKeyboardButton("🔥 Emo Bots 🔥" url="t.me/EmoBotDevolopers")
+            InlineKeyboardButton("⚡️SD Bᴏᴛs⚡️", url="https://t.me/SDBOTs_inifinity")
+        ],
+        [
+            InlineKeyboardButton("🔥 Emo Bots 🔥" url="t.me/EmoBotDevolopers") 
         ],
         [InlineKeyboardButton("🧩 Supported Media Types 🧩", callback_data="supported_media_types")],
         [
