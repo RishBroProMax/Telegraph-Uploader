@@ -33,4 +33,5 @@
   
   
 ### 💫 Credits
- - [RishBroProMax](https://github.com/RishBroproMax) for All
+ - [RishBroProMax](https://github.com/RishBroproMax)
+ - [ImDenuwan](https://github.com/ImDenuwan)
